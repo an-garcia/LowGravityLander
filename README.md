@@ -1,4 +1,4 @@
-# Game Kit 2D
+# Low Gravity Lander
 
 
 ![Scheme](/screenshots/ScreenShot2018-02-21at3.45.35PM.png)
@@ -6,7 +6,7 @@
 
 Unity game in 2D.
 The purpose of this project is to learn Unity.
-This projecct is based on [Tutorial](https://unity3d.com/learn/tutorials/s/2d-game-kit)
+This projecct is based on [Tutorial](https://www.raywenderlich.com/147686/introduction-unity-2d-2)
 
 
 ## Requirements
