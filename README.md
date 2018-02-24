@@ -1,7 +1,7 @@
 # Low Gravity Lander
 
 
-![Scheme](/screenshots/ScreenShot2018-02-21at3.45.35PM.png)
+![Scheme](/screenshots/ScreenShot2018-02-23at8.15.43PM.png)
 
 
 Unity game in 2D.
